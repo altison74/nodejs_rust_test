@@ -1,0 +1,27 @@
+{
+  "name": "fibonacci_ffi",
+  "version": "1.0.0",
+  "description": "nodejs + rust fibonacci function collaborating via ffi",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altison74/nodejs_rust_test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rust",
+    "ffi"
+  ],
+  "author": "altison74",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/altison74/nodejs_rust_test/issues"
+  },
+  "homepage": "https://github.com/altison74/nodejs_rust_test#readme",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}

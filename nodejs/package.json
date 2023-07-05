@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_fibonacci",
+  "version": "1.0.0",
+  "description": "fibonacci on pure nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altison74/nodejs_rust_test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "fibonacci"
+  ],
+  "author": "Artem Shchapov <altison74@gmail.com>",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/altison74/nodejs_rust_test/issues"
+  },
+  "homepage": "https://github.com/altison74/nodejs_rust_test#readme"
+}

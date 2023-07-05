@@ -1,0 +1,17 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = [ "Shchapov Artem <altison74@gmail.com>" ]
+
+[lib]
+name = "fibonacci_wasm"
+crate-type = ["cdylib", "rlib"]
+
+edition = "2018"
+
+[dependencies]
+wasm-bindgen = "0.2"
+
+
+
+

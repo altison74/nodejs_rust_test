@@ -1,0 +1,14 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = [ "Shchapov Artem <altison74@gmail.com>" ]
+
+[lib]
+name = "fibonacci_ffi"
+crate-type = ["dylib"]
+
+[dependencies]
+
+
+
+

@@ -1,0 +1,11 @@
+/home/artem/WebstormProjects/nodejs_rust_test/napi/target/debug/deps/concurrent_queue-3d9d9ba8004a42b4.rmeta: /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/home/artem/WebstormProjects/nodejs_rust_test/napi/target/debug/deps/libconcurrent_queue-3d9d9ba8004a42b4.rlib: /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/home/artem/WebstormProjects/nodejs_rust_test/napi/target/debug/deps/concurrent_queue-3d9d9ba8004a42b4.d: /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs:
+/home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs:
+/home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs:
+/home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs:
+/home/artem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs:
